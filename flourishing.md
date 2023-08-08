@@ -1,42 +1,31 @@
 **Thesis**: <br />
-
-The most important priority for "the good life" is to nurture and improve your mind and relationships.
+The most important priority for "the good life" is to nurture and improve yourself and your relationships.
 
 Explanation:
 
-0. [Preface](#preface)
-1. [Value](#1-value)
-2. [Good](#2-good)
-3. [Cause](#3-cause)
-4. [Factors](#4-factors)
-5. [Cultivation](#5-cultivation)
-6. [Practice](#6-practice)
+1. [Value](#value)
+2. [Good](#good)
+3. [Causes](#causes)
+4. [Factors](#factors)
+5. [Cultivation](#cultivation)
+6. [Practice](#practice)
+7. [Conclusion](#conclusion)
 
-## Preface
-
-### 0. The Universe
-
-**Question**:
+## Preface: The Universe
 
 What is the universe? What's going on? (What is life, the universe, and everything?)
 
-#### Premise #0: Interconnectedness
+### Premise #0: Interconnectedness
 
 The universe is the complex interplay of interconnected, interrelated, interdependent systems wherein life and consciousness has emerged.
 
-## 1. Value
-
-**Question**:
+## Value
 
 What's most important? What matters most?
-
-What is valuable? What has value?
 
 What is intrinsically valuable? What has intrinsic value?
 
 ### Premise #1: Consciousness
-
-**Answer**:
 
 Consciousness is the origin of all value.
 
@@ -46,140 +35,107 @@ Life is the root intrinsic value.
 
 > "Consciousness is the most important thing in the universe. It is the carrier of all value: actual and possible." — S.H.
 
-## 2. Good
+## Good
 
-**Question**:
-
-What is good? What is good for that which is most important / intrinsically valuable?
-
-What is good, better, and best? What is ideal?
+What is good? What's a good life?
 
 What is best for consciousness and conscious experience? What is best for life?
 
-What are good conscious experiences? What is a good life?
-
 ### Premise #2: Flourishing
-
-**Answer**:
-
-Flourishing is good for conscious life and is the best conscious experience.
 
 Flourishing is the ideal state of life and living — to be well and to live well.
 
-The good life is a life of flourishing.
+Flourishing is good for consciousness and is the best conscious experience.
 
-Flourishing is synonymous with well-being, well-living, and thriving.
+Flourishing is synonymous with well-being, well-living, thriving, and "the good life".
 
-## 3. Cause
+## Causes
 
-**Question**:
+What determines the quality of consciousness and conscious experience? How do you determine the quality of your life and your living?
 
-What is the origin of goodness? What causes goodness? Where does good come from?
-
-What determines the quality of consciousness and conscious experience? What determines the quality of life and living?
-
-How do you determine the quality of your life and your living? How do you determine how good your life is and how well you are living it?
-
-How do we evaluate states of being and experiences? How do we evaluate the quality of life?
+How do you determine how good your life is and how well you are living it? How do you evaluate the quality of life?
 
 ### Premise #3: Systems
 
-The interconnected, interrelated, and interdependent systems of life and conscious experience determine the quality of life.
+The interrelated, interconnected, and interdependent systems of life and conscious experience determine the quality of life.
 
-The evaluation of the quality of life and living is relative to the emergent interplay of all these complex systems. Their interconnectedness, interrelationships, and interdependence outline the quality of your life.
+Flourishing is a function of the interplay of these systems, emerging from the synergy of their connections, conditions, contexts, and consequences.
 
-Life is an emergent synthesis of these systems and its quality is contextually conditional on the state of this emergence.
+The quality of your life is evaluated by the quality of the network of these relationships.
 
-Flourishing emerges from the symbiotic and synergistic relationships of these systems.
+## Factors
 
-The quality of your life is determined by the quality of the interrelationships of your interconnected systems.
+What are the most fundamental factors of flourishing? What are the most important dimensions of well-being?
 
-The quality of an experience is evaluated by its consequences/effects on the state of being of conscious living beings.
-
-## 4. Factors
-
-**Question**:
-
-What are the most important factors of goodness? Which factors matter most?
-
-What are the most essential elements and crucial components of the good life?
-
-Which systems are the most significant determinants of flourishing?
-
-Which factors have the most significant effect on the quality of life?
-
-What is the most useful conceptual model, framework, breakdown, and outline of flourishing?
-
-What are the most fundamental factors of flourishing?
+Which systems are the most significant determinants of flourishing? Which elements have the most significant effect on the quality of life?
 
 ### Premise #4: Social, Mental, Physical
 
-The social, mental, and physical factors of life are the most significant determinants of flourishing.
-
 The quality of your life is most determined by the quality of your relationships, mind, and body.
 
-Evaluating the state of a conscious being's social, mental, and physical systems and their interrelationships is the best method of approach for estimating the quality of that conscious being's life and living.
+The social, mental, and physical systems of life are the most significant determinants of well-being.
 
-Flourishing is best modeled as primarily being composed of social, mental, and physical flourishing, well-being, health, and thriving.
+Your relationships, mind, and body are the most fundamental factors of your flourishing.
 
-The best conceptual framework of flourishing focuses on a living being's relationships, mind, and body.
-
-The three most important factors of flourishing are the mind, body, and relationships.
-
-The quality of your life is determined by the quality of your relationships, mind, and body — your social, mental, and physical well-being, health, fulfillment, fitness, development, and growth.
-
-Your mind, body, and relationships are the most fundamental factors of your flourishing.
-
-Elements, factors, dimensions, domains, aspects, components
-
-Essential, crucial, core, key, imperative, important, paramount, priority, necessary, significant
+To flourish is to thrive socially, mentally, and physically.
 
 > "Health is a state of complete physical, mental, and social well-being." — The W.H.O.
 
-# Part 2
-
-## 5. Cultivation
-
-**Question**:
+## Cultivation
 
 How can you foster flourishing? How can you cultivate well-being?
 
 How can you live a good life? How can you live well?
 
-How can you cultivate what is good? How can you create or curate a good life?
-
 ### Premise #5: Nurture
 
-**Answer**:
+The best way to cultivate well-being is to nurture and improve your relationships, mind, and body.
 
-Fostering flourishing is the proactive prioritization and intentional practice of nurturing and improving your relationships, mind, and body.
+Fostering flourishing is the proactive prioritization and intentional practice of nurturing and improving yourself and your relationships.
 
-The practice (priorities, activities, actions, cultivation)
-
-To cultivate well-being is to nurture and improve your relationships, mind, and body.
-
-## 6. Practice
-
-**Question**:
+## Practice
 
 How do you nurture and improve yourself and your relationships?
 
-What are the most important personal priorities and practices to nurture and improve yourself and your relationships?
+What are the best practices to nurture and improve yourself and your relationships?
 
 ### Premise #6: Love
 
-**Answer**:
+Loving others and yourself is the best way to nurture and improve yourself and your relationships.
 
-The best way to nurture and improve yourself and your relationships is to love yourself and others.
+Love is the synthesis of:
 
-Love is the synthesis of care, compassion, connection, kindness, benevolence, altruism, empathy, attention, presence, engagement, understanding, openness, trust, acceptance, appreciation, gratitude, joy, peace, serenity, harmony, and equanimity.
+- Presence, awareness, attention, concentration, engagement
+- Connection, openness, curiosity, understanding, acceptance, trust
+- Gratitude, appreciation, admiration, recognition, respect, thankfulness
+- Compassion, care, kindness, benevolence, altruism, empathy
+- Equanimity, tranquility, calmness, peace, harmony, serenity
 
-You can nurture yourself and your relationships by prioritizing and practicing the personal values, skills, and qualities of:
+You can nurture yourself and your relationships by prioritizing and practicing these skills.
 
-- **Presence** (+ awareness and attention)
-- **Understanding** (+ openness and curiosity)
-- **Gratitude** (+ appreciation and thankfulness)
-- **Love/Loving-kindness** (+ care and compassion)
-- **Equanimity** (+ peace and serenity)
+## Conclusion
 
-Altogether, fostering flourishing looks like creating and cultivating moments and experiences of love.
+Flourishing is:
+
+- "The good life"
+- To be well and to live well
+- Social, mental, physical well-being
+- Thriving socially, mentally, physically
+
+The most fundamental factors of flourishing are: your relationships, mind, and body.
+
+The quality of your life / conscious experience is most determined by the quality of your relationships, mind, and body.
+
+The best way to improve the quality of your life is to nurture yourself and your relationships.
+
+The best way to nurture yourself and your relationships is to love others and yourself.
+
+The best way to love is to be present, aware, attentive, engaged, connected, open, curious, understanding, accepting, trusting, grateful, appreciative, respectful, thankful, vulnerable, communicative, compassionate, caring, kind, benevolent, altruistic, empathetic, calm, peaceful, serene, and equanimous.
+
+The best way to live is to love.
+
+The best way to live better is to love better.
+
+The best way to love better is to train and practice the skills of presence, awareness, attention, engagement, connection, openness, curiosity, understanding, acceptance, trust, gratitude, appreciation, admiration, recognition, respect, thankfulness, vulnerability, communication, compassion, care, kindness, benevolence, altruism, empathy, calmness, peace, harmony, serenity, and equanimity.
+
+The best way to foster flourishing is to create and cultivate moments and experiences of love.
