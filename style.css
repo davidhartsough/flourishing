@@ -1,22 +1,26 @@
 :root {
-  --bg-color: #fcfcfd;
-  --border-color: #c4c4c4;
-  --font-color: #17191c;
-  --link-color: #00c;
+  --bg: #fcfcfd;
+  --border: #c4c4c4;
+  --border-rgb: 196, 196, 196;
+  --text: #17191c;
+  --link: #00c;
+  --black: #17191c;
+  --white: #fcfcfd;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #141415;
-    --border-color: #7a7f85;
-    --font-color: #f4f5f5;
-    --link-color: #3df;
+    --bg: #141415;
+    --border: #7a7f85;
+    --border-rgb: 122, 127, 133;
+    --text: #f4f5f5;
+    --link: #3df;
   }
 }
 *,
 ::before,
 ::after {
   box-sizing: border-box;
-  border-color: var(--border-color);
+  border-color: var(--border);
 }
 html {
   line-height: 1.5;
@@ -33,13 +37,18 @@ html {
 body {
   margin: 0;
   line-height: inherit;
-  background-color: var(--bg-color);
-  color: var(--font-color);
+  background-color: var(--bg);
+  color: var(--text);
 }
 main {
   padding: 1rem 1rem 2rem;
-  max-width: 48rem;
+  max-width: 46rem;
   margin: 0 auto;
+}
+@media screen and (max-width: 24rem) {
+  main {
+    padding: 1rem 0.75rem 2rem;
+  }
 }
 article {
   padding-bottom: 2rem;
@@ -80,7 +89,7 @@ h6 {
 }
 a {
   text-decoration: none;
-  color: var(--link-color);
+  color: var(--link);
 }
 a:hover,
 a:focus {
@@ -122,7 +131,7 @@ small {
 }
 ul,
 ol {
-  margin: 0 0 1.5rem 1.5rem;
+  margin: 0 0 1.25rem 1.5rem;
   padding: 0;
   list-style-position: outside;
   list-style-image: none;
@@ -149,7 +158,7 @@ hr {
   margin: 2rem 0;
   height: 0;
   color: inherit;
-  border-top: 1px solid var(--border-color);
+  border-top: 1px solid var(--border);
 }
 img,
 svg,
@@ -193,13 +202,13 @@ td:last-child {
   padding-right: 0;
 }
 th {
-  font-weight: bold;
+  font-weight: 600;
 }
 th,
 td {
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  border-bottom-color: var(--border-color);
+  border-bottom-color: var(--border);
 }
 
 /* #region Custom */

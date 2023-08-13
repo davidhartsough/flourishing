@@ -1,0 +1,167 @@
+/* #region Color Variables */
+:root {
+  --red: #fbb;
+  --yellow: #ffc;
+  --green: #cfc;
+  --blue: #cef;
+  --purple: #dcf;
+  --pink: #fcf;
+}
+.green {
+  background-color: var(--green);
+}
+.yellow {
+  background-color: var(--yellow);
+}
+.pink {
+  background-color: var(--pink);
+}
+.red {
+  background-color: var(--red);
+}
+.purple {
+  background-color: var(--purple);
+}
+.blue {
+  background-color: var(--blue);
+}
+/* #endregion */
+
+.box {
+  padding: 1rem 0 1.25rem;
+  margin: 1rem auto;
+  text-align: center;
+  line-height: 1.15;
+  background-color: #222;
+  color: var(--white);
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+@media (min-width: 26rem) {
+  .box {
+    border: 1px solid var(--border);
+  }
+}
+.box,
+.box table {
+  font-size: clamp(0.875rem, 3.25vw, 1.5rem);
+}
+.box .text-lg {
+  font-size: clamp(1.125rem, 3.75vw, 1.625rem);
+}
+.box .text-xl {
+  font-size: clamp(1.25rem, 4.25vw, 1.875rem);
+}
+.box .text-xs {
+  font-size: clamp(0.75rem, 3vw, 1.25rem);
+}
+.box .text-sm {
+  font-size: clamp(0.75rem, 3.5vw, 1.5rem);
+}
+.box .left td {
+  text-align: left;
+}
+.box span {
+  padding: 0.125rem 0.5rem;
+  border-radius: 0.375rem;
+  color: var(--black);
+}
+.box p {
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+}
+.box strong {
+  font-weight: 600;
+}
+
+.box table {
+  margin: 0 auto;
+  table-layout: fixed;
+  width: auto;
+}
+.box th,
+.box td {
+  padding: 0.5rem 0.375rem;
+  line-height: 1;
+  vertical-align: top;
+  text-align: center;
+  border-bottom-width: 0;
+}
+@media (min-width: 28rem) {
+  .box th,
+  .box td {
+    padding: 0.5rem 0.75rem;
+  }
+}
+.box th:first-child,
+.box td:first-child {
+  padding-left: 0;
+}
+.box th:last-child,
+.box td:last-child {
+  padding-right: 0;
+}
+
+.box .halves th,
+.box .halves td {
+  width: 50%;
+}
+.box .thirds th,
+.box .thirds td {
+  width: calc(100% / 3);
+}
+@media (max-width: 24rem) {
+  .box .thirds th,
+  .box .thirds td {
+    width: auto;
+  }
+}
+.box .fourths th,
+.box .fourths td {
+  width: 25%;
+}
+
+.flex {
+  font-size: clamp(0.875rem, 3vw, 1.25rem);
+  display: flex;
+  justify-content: stretch;
+  flex-wrap: wrap;
+  margin: 0.75rem auto;
+  max-width: 36rem;
+}
+.flex div {
+  flex: 1 1 25%;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+@media (max-width: 30rem) {
+  .flex {
+    max-width: 15rem;
+  }
+  .flex div {
+    flex-basis: 50%;
+  }
+}
+
+.plus {
+  font-size: clamp(1rem, 3.5vw, 1.5rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plus small {
+  margin: 0 0.5rem;
+}
+
+.box .mt1 {
+  margin-top: 0.5rem;
+}
+.box .mb1 {
+  margin-bottom: 0.5rem;
+}
+.box .mt2 {
+  margin-top: 1rem;
+}
+.box .mb2 {
+  margin-bottom: 1rem;
+}
