@@ -52,6 +52,12 @@
 .box .text-xl {
   font-size: clamp(1.25rem, 4.25vw, 1.875rem);
 }
+.box .text-xl2 {
+  font-size: clamp(1.3125rem, 6vw, 2rem);
+}
+.box .text-xl3 {
+  font-size: clamp(1.875rem, 8vw, 2.25rem);
+}
 .box .text-xs {
   font-size: clamp(0.75rem, 3vw, 1.25rem);
 }
@@ -121,6 +127,15 @@
   width: 25%;
 }
 
+.box .pluses td:nth-child(even) {
+  width: 1.25rem;
+}
+.box .pluses td:first-child,
+.box .pluses td:last-child {
+  width: calc(50% - 0.625rem);
+  padding: 0.5rem 0;
+}
+
 .flex {
   font-size: clamp(0.875rem, 3vw, 1.25rem);
   display: flex;
@@ -163,5 +178,13 @@
   margin-top: 1rem;
 }
 .box .mb2 {
+  margin-bottom: 1rem;
+}
+.box .my1 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.box .my2 {
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }

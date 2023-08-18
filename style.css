@@ -213,9 +213,13 @@ td {
 
 /* #region Custom */
 header {
+  margin: 1.5rem 0;
+}
+header,
+.header {
   display: flex;
   align-items: center;
-  margin: 1.5rem 0;
+  color: var(--text);
 }
 header h1 {
   margin: 0;
