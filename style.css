@@ -261,4 +261,7 @@ p:has(+ ul),
 p:has(+ ol) {
   margin-bottom: 0;
 }
+.big {
+  font-size: 112.5%;
+}
 /* #endregion Custom */
