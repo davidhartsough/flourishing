@@ -99,6 +99,11 @@
     padding: 0.5rem 0.75rem;
   }
 }
+@media (max-width: 30rem) {
+  .box .tight td {
+    padding: 0.5rem 0.25rem;
+  }
+}
 .box th:first-child,
 .box td:first-child {
   padding-left: 0;
